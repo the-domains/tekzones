@@ -1,20 +1,4 @@
-name: TekZones
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.46407205308787525
-title: TekZones Specialties
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3b3b3b'
@@ -26,4 +10,27 @@ color:
   lightness: 0.9955595878418535
   saturation: 0.5869457919616252
   rhythmicContrast: 0.5158952644560486
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Robert F. Havens
+  email: admin@tekzones.com
+  url: TekZones.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb0e030d-abbd-42a2-98f3-9ce4f56c1e5f.jpg
+name: TekZones
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31dc254a-a5f2-4541-a557-ac6246cbc306.ico
+title: TekZones Specialties
 purpose: []
